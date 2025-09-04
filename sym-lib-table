@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RP2350B")(type "KiCad")(uri "${KIPRJMOD}/Library/RP2350B.kicad_sym")(options "")(descr ""))
+  (lib (name "AT7456E")(type "KiCad")(uri "${KIPRJMOD}/Library/AT7456E.kicad_sym")(options "")(descr ""))
+  (lib (name "CC2590RGVTG4")(type "KiCad")(uri "${KIPRJMOD}/Library/CC2590RGVTG4.kicad_sym")(options "")(descr ""))
+)
