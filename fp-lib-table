@@ -3,4 +3,7 @@
   (lib (name "RP2350B")(type "KiCad")(uri "${KIPRJMOD}/Library/RP2350B.pretty")(options "")(descr ""))
   (lib (name "AT7456E")(type "KiCad")(uri "${KIPRJMOD}/Library/AT7456E.pretty")(options "")(descr ""))
   (lib (name "CC2590RG")(type "KiCad")(uri "${KIPRJMOD}/Library/CC2590RG.pretty")(options "")(descr ""))
+  (lib (name "W25Q16JVUXIQ")(type "KiCad")(uri "${KIPRJMOD}/Library/W25Q16JVUXIQ.pretty")(options "")(descr ""))
+  (lib (name "BCT2057ELTAJ")(type "KiCad")(uri "${KIPRJMOD}/Library/BCT2057ELTAJ.pretty")(options "")(descr ""))
+  (lib (name "RFX2401C")(type "KiCad")(uri "${KIPRJMOD}/Library/RFX2401C.pretty")(options "")(descr ""))
 )
