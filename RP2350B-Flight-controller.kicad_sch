@@ -4322,7 +4322,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "DD"
+			(property "Reference" "DD1"
 				(at -0.508 17.526 0)
 				(effects
 					(font
@@ -4332,7 +4332,7 @@
 				)
 			)
 			(property "Value" "nRF24L01P"
-				(at -3.048 15.494 0)
+				(at -3.048 14.986 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4776,6 +4776,25 @@
 						)
 					)
 					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -13.97 180)
+					(length 3.81)
+					(hide yes)
+					(name "PAD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -37146,6 +37165,9 @@
 		)
 		(pin "16"
 			(uuid "8130b6ee-1b26-43a6-a091-a7041db2b10d")
+		)
+		(pin "21"
+			(uuid "c32e8fbc-1187-4e14-b1d0-dd7965a4f3a0")
 		)
 		(instances
 			(project ""
